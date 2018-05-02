@@ -3,6 +3,8 @@ author:sameeran joshi <joshisameeran17@gmail.com>
 date:2-may-2018
 exercise 1-14 
 Q.write a program to print a histogram of frequencies of different characters in its input.
+
+TO STOP THE PROGRAM ENTER 'Q'
 */
 
 #include <stdio.h>
