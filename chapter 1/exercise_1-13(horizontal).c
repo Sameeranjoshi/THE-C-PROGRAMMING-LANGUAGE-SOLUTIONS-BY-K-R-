@@ -3,6 +3,8 @@ author:sameeran joshi <joshisameeran17@gmail.com>
 date:2-may-2018
 exercise 1-13 
 Q.write a program to print a histogram of of the lengths of words in its input.here's a horizontal graph.
+
+TO STOP THE PROGRAM ENTER 'Q'
 */
 
 #include <stdio.h>
